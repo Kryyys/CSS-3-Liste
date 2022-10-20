@@ -1,0 +1,9 @@
+.blue {
+    background-color: blue;
+    width: 150px;
+}
+
+#heritage + li {
+    background-color: blue;
+    width: 150px;
+}
